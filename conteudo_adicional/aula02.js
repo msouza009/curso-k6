@@ -13,7 +13,7 @@ export const options = {
     },
     ext:{
         loadimpact:{
-            projectID: 'Insira o seu project ID',
+            projectID: '3777480',
             name: 'POC CURSO K6'
         }
     }
